@@ -1,7 +1,6 @@
 'use strict';
 
 class Game {
-
   constructor(
     initialState = [
       [0, 0, 0, 0],
