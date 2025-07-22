@@ -27,3 +27,20 @@ This project is a great test of your understanding of arrays, events, motion log
 - Vanilla JavaScript (ES6+)
 - Class approach (`Game` class)
 - Parcel for the build
+
+## 🛠 How to run the project locally
+
+1. Install Node.js
+   Make sure you have Node.js version 16.x or higher installed.Download Node.js
+
+2. Clone the repository
+   (git clone https://github.com/andrew1256/landing_page.git)
+   (cd landing_page)
+
+3. Install dependencies
+   (npm install)
+
+4. Start the development server
+   (npm run start)
+
+The project will open in your browser at: http://localhost:8080
